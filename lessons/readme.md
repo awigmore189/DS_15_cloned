@@ -18,7 +18,7 @@ General Assembly's Data Science course is made up of 20 lessons that are 3 hours
 
 | Week | Date | Morning Class | Morning Title | Afternoon Class | Afternoon Title | 
 | :-: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 0  | Before 8/27 | Lesson 0   | [Onboarding]   |
+| 0  | Before 8/27 | Lesson 0   | [Onboarding/Pre-Work](../resources/student-resources/readme.md)   |
 | 1  | 8/27 | Lesson 1 | [What is Data Science](./lesson-01/readme.md) | Lesson 2 | [Research Design & Pandas](./lesson-02/readme.md)|
 | 2  | 9/10 | Lesson 3 | [Statistics Fundamentals pt. 1](./lesson-03/readme.md) | Lesson 4 | [Statistics Fundamentals pt. 2](./lesson-04/readme.md)|
 | 3  | 9/17 | Lesson 5 | *[Tool Review / Flex Session](./lesson-05/readme.md) | Lesson 6 | [Intro to Linear Regression](./lesson-06/readme.md)|
