@@ -12,7 +12,7 @@ In this 10 week part-time course, we will use Python (v2.7) to explore datasets,
 ## Your Team
 **Instructor**: [Doug Friedman](mailto:doug.nhp@gmail.com)
 
-**Teaching Assistant**: [TBD]
+**Teaching Assistant**: [Alex Wigmore][]
 
 **Course Producer**: [Jon Rojas](mailto:jon.rojas@generalassemb.ly)
 
@@ -24,7 +24,7 @@ If you've never used Slack before, [here's a quick primer](https://www.youtube.c
 
 ---
 ## Office Hours
-Every week, Doug and TBD will hold office hours where you can stop by to talk about anything related to the course. *It's a great opportunity* to discuss topics we've covered in more detail or answer any questions you may have about the lesson/homework/projects.
+Every week, Doug and Alex will hold office hours where you can stop by to talk about anything related to the course. *It's a great opportunity* to discuss topics we've covered in more detail or answer any questions you may have about the lesson/homework/projects.
 
 ---
 ## Exit Tickets
