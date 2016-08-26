@@ -12,7 +12,7 @@ General Assembly's Data Science course is made up of 20 lessons that are 3 hours
 ## Unit Breakdown
 
 | Unit | Title | Lessons Provided | Flex Session |
-| --- | --- |  --- | --- |
+| :---: | :---: | :---: | :---: |
 | Unit 1 | Research Design & Data Analysis | Lessons 1 - 4  | Lesson 5 |
 | Unit 2 | Foundations of Modeling | Lessons 6 - 10 | Lesson 11 |
 | Unit 3 | Data Science in the Real World| Lessons 12 - 18 | Lesson 19 |
@@ -23,18 +23,19 @@ General Assembly's Data Science course is made up of 20 lessons that are 3 hours
 
 # Lesson Breakdown
 
-| Class | Title |  | Class | Title |
-| --- | :---: | --- |  --- | :---: |
-| Lesson 1 | [What is Data Science](./lesson-01/readme.md) || Lesson 11 | *Flex Session |
-| Lesson 2 | [Research Design & Pandas](./lesson-02/readme.md) || Lesson 12 | [Decision Trees / Random Forest](./lesson-12/readme.md)|
-| Lesson 3| [Statistics Fundamentals pt. 1](./lesson-03/readme.md) || Lesson 13 | [NLP with Classification](./lesson-13/readme.md) |
-| Lesson 4 | [Statistics Fundamentals pt. 2](./lesson-04/readme.md) || Lesson 14 | [Dimensionality Reduction](./lesson-14/readme.md) |
-| Lesson 5 | *[Tool Review / Flex Session](./lesson-05/readme.md) || Lesson 15 | [Time Series Data](./lesson-15/readme.md) |
-| Lesson 6 | [Intro to Linear Regression](./lesson-06/readme.md) || Lesson 16 | [Modeling Time Series Data](./lesson-16/readme.md) |
-| Lesson 7 | [Evaluating Model Fit](./lesson-07/readme.md) || Lesson 17 | [Data Science Databases](./lesson-17/readme.md) |
-| Lesson 8 | [Intro to Classification](./lesson-08/readme.md)|| Lesson 18 | [Data Science Careers](./lesson-18/readme.md) |
-| Lesson 9 | [Intro to Logistic Regression](./lesson-09/readme.md) || Lesson 19 | *Flex Session |
-| Lesson 10 | [Communicating Model Results](./lesson-10/readme.md) ||Lesson 20 | Final Project Demo Day |
+| Week | Date | Morning Class | Morning Title | Afternoon Class | Afternoon Title | 
+| :-: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 0  | Before 8/27 | Lesson 0   | [Onboarding]   |
+| 1  | 8/27 | Lesson 1 | [What is Data Science](./lesson-01/readme.md) | Lesson 2 | [Research Design & Pandas](./lesson-02/readme.md)|
+| 2  | 9/10 | Lesson 3 | [Statistics Fundamentals pt. 1](./lesson-03/readme.md) | Lesson 4 | [Statistics Fundamentals pt. 2](./lesson-04/readme.md)|
+| 3  | 9/17 | Lesson 5 | *[Tool Review / Flex Session](./lesson-05/readme.md) | Lesson 6 | [Intro to Linear Regression](./lesson-06/readme.md)|
+| 4  | 9/24 | Lesson 7 | [Evaluating Model Fit](./lesson-07/readme.md) | Lesson 8 | [Intro to Classification](./lesson-08/readme.md) |
+| 5  | 10/1 | Lesson 9 | [Intro to Logistic Regression](./lesson-09/readme.md) | Lesson 10 | [Communicating Model Results](./lesson-10/readme.md) |
+| 6  | 10/8 | Lesson 11 | *Flex Session | Lesson 12 | [Decision Trees / Random Forest](./lesson-12/readme.md) |
+| 7  | 10/15 | Lesson 13 | [NLP with Classification](./lesson-13/readme.md) | Lesson 14 | [Dimensionality Reduction](./lesson-14/readme.md) |
+| 8  | 10/22 | Lesson 15 | [Time Series Data](./lesson-15/readme.md) | Lesson 16 | [Modeling Time Series Data](./lesson-16/readme.md) |
+| 9  | 10/29 | Lesson 17 | [Data Science Databases](./lesson-17/readme.md) | Lesson 18 | [Data Science Careers](./lesson-18/readme.md) |
+| 10  | 11/5 | Lesson 19 | *Flex Session | Lesson 20 | Final Project Demo Day |
 
 ---
 
