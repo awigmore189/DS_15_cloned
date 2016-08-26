@@ -1,12 +1,5 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science Lessons
 
-> Globally, we have 3 Units in Data Science, each building on top of skills learned previously to scaffold students' learning over the entire course.
-
-Our lessons contain objectives, prerequisites, suggested datasets, starter and solution code, and other instructional resources, tying into the overall competencies for each unit. See below for a complete description of all the lesson planning material we provide.
-
-> Instructors should review our [preparatory instructions](../resources/instructor-resources/instructor-prep.md) or read up on our [feedback guidelines](../projects/project-feedback.md) for debriefing student assignments.
-
-
 General Assembly's Data Science course is made up of 20 lessons that are 3 hours each. This course is split into 3 units.
 
 ## Unit Breakdown
@@ -39,19 +32,6 @@ General Assembly's Data Science course is made up of 20 lessons that are 3 hours
 
 ---
 
-## Available Materials
-
-For every lesson, we've supplied a folder full of materials, including the following:
-
-| Materials | Description | How to Use It |
-|----|---------|---------------|
-| __readme.md__| Topic overview & breakdown | Use this to get a high level view, including information on lesson content, in-class activities, objectives, prework, and projects.|
-| __Starter Code Folder__| Code for demos, codealongs and questions for guided or independent practice | Use this to walk students through code snippets or give students workshops / lab assignments in-class|
-| __Solution Folder__| Solutions for guided & independent practice | Use this to assess or walk students through solutions when needed|
-| __Datasets__| Dataset used during lesson | Use this during demos/codealongs as well as guided and independent practice activities. |
-
-> Instructor's Note: You should share Starter code and Datasets in the student-facing repo and direct students to the relevant file during your lessons. Feel free to share the solution code with them afterward.
-
 ### Folder Navigation
 Each lesson folder is organized in the following pattern:
 
@@ -63,28 +43,3 @@ Each lesson folder is organized in the following pattern:
     - **Dataset**: Includes or links to the dataset(s) used during demo, guided, and independent practice
     - **Images**: Includes or links to any images referenced
     - **Slides**: Links to the baseline lesson deck for you to copy and modify
-
-
-> Note: Google Slide Decks for each lesson are linked in the "slides" folder for each lesson. To open, click the link then duplicate and rename the deck. You're encouraged to make edits and add material!
-
-## Lesson Structure
-
-Lesson plans are organized as follows:
-
-1. **YAML Frontmatter**: Content revision log
-2. **Learning Objectives**: What students should be able to do after lesson completion
-3. **Student Prework**: What students should already know how to do before this lesson
-4. **Instructor Prep**: Specific instructions for the instructor
-5. **Lesson Guide**: High level timing overview of lesson structure
-6. **Lesson Content**: Content is divided into modular, adjustable components by topic:
-  - _Opening_: Objectives, QA, Reminders
-  - _Topic - Introduction_: Slide deck supported lecture
-  - _Topic - Demo or Codealong_: Walkthrough
-  - _Topic - Guided Practice_: Short practice activity
-  - _Topic - Independent Practice_: Summative activity with deliverable(s)
-  - _Conclusion_: Lesson & Lab Review, QA, Exit Tickets
-7. **Upcoming Assignments**: Homework or Projects
-8. **Additional Resources**: Links that you should feel free to add to or supplement
-
-
-For more detail and examples, check out our [GA lesson template](./templates/readme.md).
