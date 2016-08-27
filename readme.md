@@ -12,7 +12,7 @@ In this 10 week part-time course, we will use Python (v2.7) to explore datasets,
 ## Your Team
 **Instructor**: [Doug Friedman](mailto:doug.nhp@gmail.com)
 
-**Teaching Assistant**: [Alex Wigmore][]
+**Teaching Assistant**: [Alex Wigmore](mailto:wigmore.alexander@gmail.com)
 
 **Course Producer**: [Jon Rojas](mailto:jon.rojas@generalassemb.ly)
 
