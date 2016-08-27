@@ -17,7 +17,7 @@ Acceptable performance for this standard is based on how well you've applied spe
 
 | Requirements | Incomplete (0) | Does Not Meet Expectations (1) | Meets Expectations (2) | Exceeds Expectations (3) |
 |---|---|---|---|---|
-| Create IPython Notebook with code, visualizations, and markdown | | | | |
+| Create iPython Notebook with code, visualizations, and markdown | | | | |
 | Summarize your exploratory data analysis | | | | |
 | Frame source code so it enhances your explanations | | | | |
 | Explain your choice of validation and prediction metrics. | | | | |
@@ -26,12 +26,12 @@ Acceptable performance for this standard is based on how well you've applied spe
 | Identify areas where new data could help improve the model | | | | |
 
 
-Notes: For this assignment, you will also need to review your data set and project with your project grader during office hours. It can be virtual using Google Hangouts video and screenshare or in-person.
+Notes: For this assignment, you will also need to review your data set and project with an EIR during office hours.
 
 ---
 
 ## Score:
-Based on the requirements, you can earn a maximum of  **21**  points on this project.
+Based on the requirements, you can earn a maximum of  **21**  points on this project. 
 
 #### Your total score is: **#**
 
@@ -45,3 +45,4 @@ Based on the requirements, you can earn a maximum of  **21**  points on this pro
 |HIGHLIGHTS|GROWTH OPPORTUNITIES|DEVELOPMENT PLAN|
 |---|---|---|
 | | | |
+
