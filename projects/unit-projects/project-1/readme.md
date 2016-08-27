@@ -35,7 +35,7 @@ Welcome to Data Science! In this first project you will create a framework to sc
 
 | Deadline | Deliverable| Description |
 |:-:|---|---|
-| Lesson 3 | Project 1  | Research Design Write-Up   |
+| Lesson 5 | Project 1  | Research Design Write-Up   |
 
 ---
 
