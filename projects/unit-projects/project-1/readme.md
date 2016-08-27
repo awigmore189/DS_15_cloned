@@ -13,7 +13,7 @@ Welcome to Data Science! In this first project you will create a framework to sc
 
 ### DELIVERABLES
 
-#### Completed iPython Notebook
+#### Completed IPython Notebook
 
 - **Requirements:**
     - Identify features of the dataset, including the outcome and covariates/predictors
@@ -90,8 +90,8 @@ Check out the example notebook in our starter code, which includes a data dictio
 
 ### Additional Links
 
-- [iPython Notebook Shortcuts](https://ipython.org/ipython-doc/1/interactive/notebook.html#keyboard-shortcuts)
+- [IPython Notebook Shortcuts](https://ipython.org/ipython-doc/1/interactive/notebook.html#keyboard-shortcuts)
 - [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [iPython Notebook Docs](http://ipython.readthedocs.org/en/stable/)
+- [IPython Notebook Docs](http://ipython.readthedocs.org/en/stable/)
 
 ---
