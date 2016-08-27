@@ -4,7 +4,7 @@
 
 Exploratory data analysis is a crucial and informative step in the data process. It helps confirm or deny your initial hypotheses and helps visualize the relationships among your data. Your exploratory analysis also informs the kinds of data transformations that you'll need to optimize for machine learning models.
 
-In this assignment, you will explore and visualize your initial analysis in order to effectively tell your data's story. You'll create an IPython notebook that explores your data mathematically, using a python visualization package.
+In this assignment, you will explore and visualize your initial analysis in order to effectively tell your data's story. You'll create an iPython notebook that explores your data mathematically, using a python visualization package.
 
 
 **Goal:** Confirm your data and create an exploratory analysis notebook with stat analysis and visualization.
@@ -22,7 +22,7 @@ In this assignment, you will explore and visualize your initial analysis in orde
    * Provide insight about the data set and any impact on a hypothesis.
 
 - **Detailed Breakdown:**
-   * A well organized IPython notebook with code and output
+   * A well organized iPython notebook with code and output
    * At least one visual for each independent variable and, if possible, its relationship to your dependent variable.
       * It's just as important to show what's not correlated as it is to show any actual correlations found.
       * Visuals should be well labeled and intuitive based on the data types.
@@ -30,12 +30,11 @@ In this assignment, you will explore and visualize your initial analysis in orde
       * Tables are a perfectly valid visualization tool! Interweave them into your work.
 
 - **Bonus:**
-   - Share your analysis online. Jupyter makes this very simple and the setup should not take long.
-   - Version control your code using Git and share your GitHub repo.
-   - Try experimenting with other visualization languages; python/pandas-highcharts, plotly, boken, or for a real challenge, d3 on its own. Interactive data analysis opens the doors for others to easily interpret your work and explore the data themselves!
+   - Surface and share your analysis online. Jupyter makes this very simple and the setup should not take long.
+   - Try experimenting with other visualization languages; python/pandas-highcharts, shiny/r, or for a real challenge, d3 on its own. Interactive data analysis opens the doors for others to easily interpret your work and explore the data themselves!
 
 - **Submission:**
-   - Completed code (`.py` or `.ipynb` file) and results (`.pdf` or `html` file) over Slack DM to instructor. Please compress multiple files into a single zip file for submission. In most cases we will not have access to your data and it is important for you to share your results in a format that persists. It is easy to download a completed IPython notebook with plots as a pdf or html file.
+   - TBD by instructor.
 
 ---
 
@@ -46,7 +45,7 @@ In this assignment, you will explore and visualize your initial analysis in orde
 | Lesson 8 |  Part 1 - Lightning Presentation  | Present 3 Problem Statements   |
 | Lesson 14 | Part 2 - Experiment Writeup  |  Research Design Problem Statement & Outline   |
 | Lesson 16 | Part 3 - Exploratory Analysis  | Dataset Approval and Exploratory Analysis   |
-| Lesson 18 | Part 4 - Notebook Draft  |  IPython Notebook & Model Draft  |
+| Lesson 18 | Part 4 - Notebook Draft  |  iPython Notebook & Model Draft  |
 | Lesson 20 | Part 5 - Presentation  | Present Your Final Report   |
 
 ---

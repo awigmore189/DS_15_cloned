@@ -11,7 +11,7 @@ Acceptable performance for this standard is based on how well you've applied spe
 ---
 
 ## PRESENT & COMMUNICATE
-**Meets Expectations**: Did you: Summarize findings with narrative techniques? Were you able to generate a submission file for Kaggle?
+**Meets Expectations**: Did you: Summarize findings with narrative techniques? Present limitations and assumptions of your analysis? Identify follow-up problems and questions for future analysis?
 
 #### Performance Evaluation
 > Mark boxes with an 'X'
@@ -23,7 +23,7 @@ Acceptable performance for this standard is based on how well you've applied spe
 | Risks and assumptions | | | | |
 | Goals and criteria for success | | | | |
 | Exploratory data analysis overview with visualizations and statistical analysis | | | | |
-| Writeup with interpretation of findings, an executive summary, and conclusions | | | | | |
+| Writeup with interpretation of findings, an executive summary, conclusions, and next steps | | | | |
 
 - Section Subscore:  / 18
 - Notes:
@@ -52,7 +52,7 @@ Acceptable performance for this standard is based on how well you've applied spe
 ---
 
 ## Score:
-Based on all requirements, you can earn a maximum of  **33**  points on this project.
+Based on all requirements, you can earn a maximum of  **33**  points on this project. 
 
 #### Your total score is: **#**
 
@@ -65,3 +65,4 @@ Based on all requirements, you can earn a maximum of  **33**  points on this pro
 |HIGHLIGHTS|GROWTH OPPORTUNITIES|DEVELOPMENT PLAN|
 |---|---|---|
 | | | |
+

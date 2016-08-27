@@ -18,10 +18,9 @@ Acceptable performance for this standard is based on how well you've applied spe
 | Requirements | Incomplete (0) | Does Not Meet Expectations (1) | Meets Expectations (2) | Exceeds Expectations (3) |
 |---|---|---|---|---|
 | Create dummy variables | | | | |
-| Split dataset for cross validation | | | | |
-| Complete a KNN model using scikit-learn | | | | |
-| Evaluate KNN model for accuracy and type errors | | | | |
-| Tune model using grid search | | | | |
+| Calculate OR by hand | | | | |
+| Complete a logistic regression using stats models and interpret your findings | | | | |
+| Calculate predicted probabilities | | | | |
 
 Notes:
 
@@ -29,7 +28,7 @@ Notes:
 ---
 
 ## Score:
-Based on the requirements, you can earn a maximum of  **15**  points on this project.
+Based on the requirements, you can earn a maximum of  **12**  points on this project. 
 
 #### Your total score is: **#**
 
@@ -42,3 +41,4 @@ Based on the requirements, you can earn a maximum of  **15**  points on this pro
 |HIGHLIGHTS|GROWTH OPPORTUNITIES|DEVELOPMENT PLAN|
 |---|---|---|
 | | | |
+

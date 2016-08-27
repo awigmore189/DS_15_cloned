@@ -3,9 +3,9 @@ DS | Unit Project 3
 
 ### PROMPT
 
-In this project, you will perform a KNN classification on the admissions data we've been working with in projects 1 and 2. For more instructions, follow the questions included in the starter code.
+In this project, you will perform a logistic regression on the admissions data we've been working with in projects 1 and 2. For more instructions, follow the questions included in the starter code.
 
-**Goal:** Completed iPython notebook that includes basic modeling using KNN classifier
+**Goal:** Completed iPython notebook that includes basic modeling using logistic regression
 
 ---
 
@@ -13,13 +13,16 @@ In this project, you will perform a KNN classification on the admissions data we
 
 - **Requirements:**
     - Create dummy variables
-    - Partition dataset for cross validation
-    - Build KNN model using scikit-learn
-    - Evaluate model for accuracy and type errors
-    - Tune model using grid search
+    - Calculate OR by hand
+    - Complete a logistic regression using stats models and interpret your findings
+    - Calculate predicted probabilities
+
+- **Bonus:** 
+    - Plot the predicted probabilities
+    - Brainstorm ways to improve your analysis
 
 - **Submission:**
-    - DM completed code to instructor over Slack
+    - TBD by Instructor
 
 ---
 
@@ -37,7 +40,7 @@ Your project will be assessed using the following standards:
 
 1. Refine the Data
 
-#### Rubric: [Click here for the complete rubric](./project3-rubric.md).
+#### Rubric: [Click here for the complete rubric](./project3-rubric.md). 
 
 Requirements for these standards will be assessed using the scale below:
 
@@ -68,7 +71,8 @@ Dataset: [Admissions.csv](./assets/admissions.csv)
 Review the questions in the [iPython Notebook](./starter-code/project3-starter.ipynb) provided.
 
 #### Suggestions for Getting Started
-- Included in the started code
+- Review logistic regression, odds ratios and probabilities from prior lessons.
+- **Read the docs for Stats models.** Most of the time, there is a tutorial that you can follow, but not always, and learning to read documentation is crucial to your success as a data scientist!
 
 #### Additional Links
 - [Stats Models Docs](http://statsmodels.sourceforge.net/)

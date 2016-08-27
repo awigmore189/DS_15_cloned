@@ -17,7 +17,7 @@ Acceptable performance for this standard is based on how well you've applied spe
 
 | Requirements | Incomplete (0) | Does Not Meet Expectations (1) | Meets Expectations (2) | Exceeds Expectations (3) |
 |---|---|---|---|---|
-| A well organized IPython notebook with code and output | | | | |
+| A well organized iPython notebook with code and output | | | | |
 | At least one visual for each independent variable (and any relationships) using a python visualization tool | | | | |
 | Provide insight about data set and its impact on your hypothesis | | | | |
 
