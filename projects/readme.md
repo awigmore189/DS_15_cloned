@@ -6,8 +6,6 @@
 
 Each project includes objectives, requirements, starter-code, rubric, and suggested resources - all of which tie into the overall competencies for each unit. Dive into the detailed project spec files to read more about each project.
 
-> See our [feedback guidelines](./project-feedback.md) to read more about how to provide feedback on student projects.
-
 ## Project Directory
 
 1. **[Unit Projects](./unit-projects/readme.md)**
